@@ -1,0 +1,11 @@
+Startup_ID,Startup_Name,Cohort,Founder_Name,Founder_Email,Founder_Phone,Last_Review_Date,Status
+ST-001,AlphaTech DZ,Cohort 4 - AI & SaaS,Karim Benali,karim@alphatech.dz,+213 550 12 34 01,2026-08-01,At-Risk
+ST-002,MedFlow Health,Cohort 4 - HealthTech,Amina Khelifi,amina@medflow.dz,+213 550 12 34 02,2026-08-18,Active
+ST-003,AgroPulse,Cohort 4 - AgriTech,Yacine Mansouri,yacine@agropulse.dz,+213 550 12 34 03,2026-08-25,Active
+ST-004,PayLink Maghreb,Cohort 3 - FinTech,Sarah Boudiaf,sarah@paylink.dz,+213 550 12 34 04,2026-07-28,At-Risk
+ST-005,EcoGrid Energy,Cohort 4 - CleanTech,Mehdi Ziani,mehdi@ecogrid.dz,+213 550 12 34 05,2026-09-02,Active
+ST-006,LogiTrack,Cohort 3 - Logistics,Nadia Hamidi,nadia@logitrack.dz,+213 550 12 34 06,2026-08-10,Active
+ST-007,EduSpark,Cohort 5 - EdTech,Rami Touati,rami@eduspark.dz,+213 550 12 34 07,2026-09-10,Active
+ST-008,DataShield DZ,Cohort 3 - CyberSec,Lina Ferhat,lina@datashield.dz,+213 550 12 34 08,2026-08-05,At-Risk
+ST-009,BioSense Labs,Cohort 5 - BioTech,Omar Cherif,omar@biosense.dz,+213 550 12 34 09,2026-09-14,Active
+ST-010,CraftMarket,Cohort 5 - E-Commerce,Ines Meziane,ines@craftmarket.dz,+213 550 12 34 10,2026-08-29,Active

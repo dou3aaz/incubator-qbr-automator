@@ -1,0 +1,11 @@
+Startup_ID,Link_Sent_Date,Assigned_Slot,Pipeline_Stage,Reviewer_Jury,Template_Received,Report_Link
+ST-001,2026-11-08,,2. Call Needed (>48h),Jury Panel A,False,https://docs.google.com/document/d/example-qbr-master#tab=st001
+ST-002,2026-11-09,2026-11-16 09:00 - 09:45,5. Approved & Invite Sent,Jury Panel A,False,https://docs.google.com/document/d/example-qbr-master#tab=st002
+ST-003,2026-11-09,2026-11-16 10:00 - 10:45,5. Approved & Invite Sent,Jury Panel A,True,https://docs.google.com/document/d/example-qbr-master#tab=st003
+ST-004,2026-11-08,,2. Call Needed (>48h),Jury Panel B,False,https://docs.google.com/document/d/example-qbr-master#tab=st004
+ST-005,2026-11-10,2026-11-17 08:30 - 09:15,3. Slot Confirmed,Jury Panel B,False,https://docs.google.com/document/d/example-qbr-master#tab=st005
+ST-006,2026-11-10,2026-11-17 11:00 - 11:45,4. Sent for Jury Approval,Jury Panel B,True,https://docs.google.com/document/d/example-qbr-master#tab=st006
+ST-007,,,1. Link Sent,Jury Panel A,False,https://docs.google.com/document/d/example-qbr-master#tab=st007
+ST-008,2026-11-07,2026-11-16 11:00 - 11:45,6. Completed,Jury Panel A,True,https://docs.google.com/document/d/example-qbr-master#tab=st008
+ST-009,,,1. Link Sent,Jury Panel B,False,https://docs.google.com/document/d/example-qbr-master#tab=st009
+ST-010,2026-11-11,2026-11-19 08:30 - 09:15,5. Approved & Invite Sent,Jury Panel B,False,https://docs.google.com/document/d/example-qbr-master#tab=st010
